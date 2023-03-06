@@ -4,4 +4,4 @@ Conceptual GPT-3 Information Page/Splash Page
 
 FINAL PRODUCT
 
-![](https://github.com/02Arush/-ReactJS--Responsive-GPT3-CONCEPT/blob/main/GPT-3-ReactJS-Concept.gif?raw=true)
+![](https://github.com/02Arush/-ReactJS--Responsive-GPT3-CONCEPT/blob/main/final-product-img/GPT-3-ReactJS-Concept.gif?raw=true)
