@@ -1,4 +1,4 @@
-Conceptual GPT-3 Information Page/Splash Page
+Conceptual GPT-3 Information Page/Splash Page using React-JS
 -Arush Kumar
 -UMD '25
 
